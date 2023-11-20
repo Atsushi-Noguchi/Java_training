@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class testtest {
     @RequestMapping("/hello")
     public String hello() {
-        return "test";
+        return "revised_motorcycle_table";
     }
 }
